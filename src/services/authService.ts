@@ -1,4 +1,3 @@
-
 import api, { setAuthToken } from "./api";
 import type {
   AuthResponse,
